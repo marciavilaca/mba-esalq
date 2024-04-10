@@ -62,7 +62,6 @@ INSERT INTO catalogo_filmes.empresa (nome) VALUES ('Alugue no Prime');
 
 INSERT INTO catalogo_filmes.genero (nome) VALUES ('Ficção científica');
 INSERT INTO catalogo_filmes.genero (nome) VALUES ('Comédia');
-INSERT INTO catalogo_filmes.genero (nome) VALUES ('Variedades');
 INSERT INTO catalogo_filmes.genero (nome) VALUES ('Romance');
 INSERT INTO catalogo_filmes.genero (nome) VALUES ('Suspense');
 INSERT INTO catalogo_filmes.genero (nome) VALUES ('Infantis');
@@ -73,26 +72,15 @@ INSERT INTO catalogo_filmes.genero (nome) VALUES ('Anime');
 INSERT INTO catalogo_filmes.genero (nome) VALUES ('Esportes');
 INSERT INTO catalogo_filmes.genero (nome) VALUES ('Drama');
 INSERT INTO catalogo_filmes.genero (nome) VALUES ('Faroeste');
-INSERT INTO catalogo_filmes.genero (nome) VALUES ('Reality shows');
-INSERT INTO catalogo_filmes.genero (nome) VALUES ('Tema especial');
-INSERT INTO catalogo_filmes.genero (nome) VALUES ('Talk Show');
-INSERT INTO catalogo_filmes.genero (nome) VALUES ('Música');
 INSERT INTO catalogo_filmes.genero (nome) VALUES ('Musical');
 INSERT INTO catalogo_filmes.genero (nome) VALUES ('Fantasia');
 INSERT INTO catalogo_filmes.genero (nome) VALUES ('Militar e Guerra');
 INSERT INTO catalogo_filmes.genero (nome) VALUES ('Aventura');
 INSERT INTO catalogo_filmes.genero (nome) VALUES ('Histórico');
 INSERT INTO catalogo_filmes.genero (nome) VALUES ('LGBTQ');
-INSERT INTO catalogo_filmes.genero (nome) VALUES ('Internacionais');
 INSERT INTO catalogo_filmes.genero (nome) VALUES ('Fé e Espiritualidade');
 INSERT INTO catalogo_filmes.genero (nome) VALUES ('Animações');
 INSERT INTO catalogo_filmes.genero (nome) VALUES ('Videoclipes e Shows');
 INSERT INTO catalogo_filmes.genero (nome) VALUES ('Artes');
-INSERT INTO catalogo_filmes.genero (nome) VALUES ('Entretenimento e Cultura');
-INSERT INTO catalogo_filmes.genero (nome) VALUES ('Público Young Adult (Jovens Adultos)');
-INSERT INTO catalogo_filmes.genero (nome) VALUES ('EPG');
-INSERT INTO catalogo_filmes.genero (nome) VALUES ('Interesses Especiais');
-INSERT INTO catalogo_filmes.genero (nome) VALUES ('Arthouse');
-INSERT INTO catalogo_filmes.genero (nome) VALUES ('Sem roteiro');
-INSERT INTO catalogo_filmes.genero (nome) VALUES ('Talk Shows e Variedades');
-INSERT INTO catalogo_filmes.genero (nome) VALUES ('Erótico');
+
+
